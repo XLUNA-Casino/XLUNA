@@ -30,7 +30,7 @@ XLUNA is the first decentralized leverage casino betting platform in the world. 
 
 
 - LOGIC OF XLUNA
-![N|Solid](https://raw.githubusercontent.com/XLUNA-DEV/XLUNA-image/main/image15.png)
+![N|Solid](https://raw.githubusercontent.com/XLUNA-Casino/XLUNA-image/main/image15.png)
 
 - XLUNA TOKEN
 
@@ -42,7 +42,7 @@ XLUNA is the first decentralized leverage casino betting platform in the world. 
 
 > 200 Million XLUNA will be minted.
 
-> ![N|Solid](https://raw.githubusercontent.com/XLUNA-DEV/XLUNA-image/main/image13.png)
+> ![N|Solid](https://raw.githubusercontent.com/XLUNA-Casino/XLUNA-image/main/image13.png)
 
 - USX TOKEN
 
@@ -53,12 +53,12 @@ XLUNA is the first decentralized leverage casino betting platform in the world. 
 
 > Contract
 
-> ![N|Solid](https://raw.githubusercontent.com/XLUNA-DEV/XLUNA-image/main/image14.png)
+> ![N|Solid](https://raw.githubusercontent.com/XLUNA-Casino/XLUNA-image/main/image14.png)
 
 - XLUNA NFT
 
 > XLUNA Casino PFP NFT collection will be the only collection of XLUNA NFT. It has a low entry barrier and highly exclusive to XLUNA Casino members. 50 PFP NFTs will be released in May. All of newly minted NFTs will be listing on XLUNA NFT marketplace.
-> ![N|Solid](https://raw.githubusercontent.com/XLUNA-DEV/XLUNA-image/main/21.png)
+> ![N|Solid](https://raw.githubusercontent.com/XLUNA-Casino/XLUNA-image/main/21.png)
 
 - XLUNA Pools
 
@@ -86,7 +86,7 @@ XLUNA is the first decentralized leverage casino betting platform in the world. 
 - XLUNA is used for proposals and voting on critical parameters of the XLUNA Casino network. This includes but is not limited to the types of supported assets for treasury funds and XLUNA pools, their debt limits, and acceptable assets to use as debt collateral, collateral ratio, fees, and the savings rate for various financial instruments introduced to the network. The XLUNA token is also used to vote on proposals that would affect the XLUNA casino treasury allocation, such as reward payouts for rewards.
 
 - XLUNA Casino Membership;
-![N|Solid](https://raw.githubusercontent.com/XLUNA-DEV/XLUNA-image/main/image16.png)
+![N|Solid](https://raw.githubusercontent.com/XLUNA-Casino/XLUNA-image/main/image16.png)
 
 ### Security & Sustainability
 ##### Risk & Liquidation
@@ -103,7 +103,7 @@ There are a lot of events that will be announced on the social media of XLUNA. D
 - Airdrops
 
 ### Roadmap
-![N|Solid](https://raw.githubusercontent.com/XLUNA-DEV/XLUNA-image/main/image17.png)
+![N|Solid](https://raw.githubusercontent.com/XLUNA-Casino/XLUNA-image/main/image17.png)
 
 ### Terms & Conditions
 Please read these Terms and Conditions carefully before you use the Services at XLUNA and make sure that you understand its content. These Terms and Conditions, together with the Privacy Policy, constitute a binding agreement (the “Agreement”) between you and XLUNA. There are lots of casino related terms and phrases that you may not be familiar with if you are not an experienced casino player. It’s fairly obvious what some of them mean, but some of them can cause a bit of confusion. Although we wouldn’t say it’s essential that you understand all of them in order to enjoy playing casino games, it certainly doesn’t hurt.
